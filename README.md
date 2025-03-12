@@ -5,9 +5,11 @@ A repository for the aSoft Limited hands on kotlin developer interview.
 ## Ready, Set, Go!
 In order to maximize on the time you have for the interview, please make sure you have the following setup:
 
-- This project is opened up in IntelliJ IDEA
+- This project is opened up in a convenient IDE ( IntelliJ IDEA or any other IntelliJ Platform IDE i.e. Android Studio)
 - Gradle has synced and downloaded all dependencies
-- IntelliJ IDEA has finished indexing the project
+- Your IDE of choice has finished indexing the project
+
+Hint: While not an issue, IDEs that are not members of the IntelliJ Platform (i.e. VSCode) are discouraged
 
 ## Introduction
 This is a Kotlin Multiplatform project targeting Android, iOS, Web, Desktop, Server.
