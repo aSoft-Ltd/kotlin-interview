@@ -4,14 +4,15 @@ A repository for the aSoft Limited hands on kotlin developer interview.
 
 ## Introduction
 
-This interview is meant to mimic the real life scenario while programming a particular problem. You are allowed to
+This is live coding interview. While you can join using your phone, joining with your computer as a primary device is a must.
+It is meant to mimic real life scenario while programming a particular problem. You are allowed to
 - Ask questions
 - Ask for hints
 - Ask for help
 
-Hint: 
+Hint:
 
-Googling is also allowed, but it should be the last resort and only invoked if the panelists have failed to answer your question 
+Googling is also allowed, but it should be the last resort and only invoked if the panelists have failed to answer your question
 
 ## Preparations
 In order to maximize on the time you have for the interview, please make sure you have the following setup:
